@@ -1,0 +1,25 @@
+{
+  "name": "js-data-to-logz",
+  "version": "0.0.1",
+  "description": "A quick boilerplate to ship data from X to logz.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukmadlz/js-data-to-logz.git"
+  },
+  "author": "Mike Elsmore <mike.elsmore@logz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ukmadlz/js-data-to-logz/issues"
+  },
+  "homepage": "https://github.com/ukmadlz/js-data-to-logz#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "logzio-nodejs": "^2.0.2",
+    "nodemon": "^2.0.4"
+  }
+}
